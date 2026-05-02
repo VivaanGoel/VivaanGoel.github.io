@@ -1,0 +1,24 @@
+HTML Tags Used:
+1. <li>
+2. <h2>
+3. <ol>
+4. <nav>
+5. <div>
+6. <h1>
+7. <p>
+8. <img>
+9. <button>
+10. <ul>
+
+CSS Properties Used:
+1. color – Used to define text color.
+2. background-color – Used to style backgrounds of sections and the navbar.
+3. padding – Used to control internal spacing within elements.
+4. margin – Used to manage spacing between elements.
+5. border-radius – Used to create rounded elements such as buttons and containers.
+
+JavaScript:
+JavaScript is used to implement a scroll-to-top button that dynamically appears based on scroll position and allows smooth navigation back to the top of the page.
+
+Bootstrap:
+Bootstrap is used to create a responsive layout using its grid system and to style components such as the navbar, buttons, and spacing utilities.
